@@ -1,0 +1,128 @@
+ダウンロード開始：2023/08/23 17:18:48
+
+● https://sushida.net から C:\Users\takut\OneDrive\ドキュメント\Downloads\sushida.net へ
+
+qa.html
+Pkana_play.html （"play.html?kana" から変更）
+Psoundless_play.html （"play.html?soundless" から変更）
+play.html
+index.html （"[default]" から変更）
+icon.html
+
+● https://sushida.net/img から C:\Users\takut\OneDrive\ドキュメント\Downloads\sushida.net\img へ
+
+title.jpg
+qa_title.gif
+icon_title.gif
+green.gif
+favicon.ico
+bn_qa.gif
+bn_play3.gif
+bn_play2.gif
+bn_play.gif
+bn_nt.gif
+bg_main.gif
+bg_contents.gif
+bg.gif
+b_typing.gif
+b_top_back.gif
+b_top.gif
+b_taiou.gif
+b_qa.gif
+b_play3.gif
+b_play2.gif
+b_play1.gif
+b_icon.gif
+about.gif
+
+● https://sushida.net/img/icon から C:\Users\takut\OneDrive\ドキュメント\Downloads\sushida.net\img\icon へ
+
+single.zip
+s_uni.gif
+s_tamago.gif
+s_tako.gif
+s_tai.gif
+s_sarmon.gif
+s_oshinko.gif
+s_ootoro.gif
+s_maki.gif
+s_kohada.gif
+s_kazunoko.gif
+s_kanpati.gif
+s_ikurakobosi.gif
+s_ikura.gif
+s_ika.gif
+s_gyutoro.gif
+s_ebi.gif
+s_chutoro.gif
+s_azi.gif
+s_anago.gif
+s_amaebi.gif
+s_akami.gif
+s_akamaki.gif
+geta2b.gif
+geta2.gif
+geta1b.gif
+geta1.gif
+double.zip
+d_unikura.gif
+d_uni.gif
+d_triple.gif
+d_tamago.gif
+d_tako.gif
+d_tai.gif
+d_sarmon.gif
+d_oshinko.gif
+d_ootoro.gif
+d_maki.gif
+d_kohada.gif
+d_kazunoko.gif
+d_kanpati.gif
+d_ikura.gif
+d_ika.gif
+d_gyutoro.gif
+d_ebi.gif
+d_chutoro.gif
+d_azi.gif
+d_anago.gif
+d_amaebi.gif
+d_akami.gif
+d_akamaki.gif
+
+● https://sushida.net/img/link から C:\Users\takut\OneDrive\ドキュメント\Downloads\sushida.net\img\link へ
+
+webglx0_ptyping.gif
+webglx0_map_c.jpg
+webglx0_az_img.gif
+pop_typing.jpg
+osakana_typing.jpg
+easy_typing_w.jpg
+
+● https://sushida.net/css から C:\Users\takut\OneDrive\ドキュメント\Downloads\sushida.net\css へ
+
+style_menu.css
+play.css
+P0302_main.css （"main.css?0302" から変更）
+main.css
+
+● https://sushida.net/js から C:\Users\takut\OneDrive\ドキュメント\Downloads\sushida.net\js へ
+
+parts.js
+
+● https://sushida.net/TemplateData から C:\Users\takut\OneDrive\ドキュメント\Downloads\sushida.net\TemplateData へ
+
+UnityProgress.js
+style.css
+progressLogo.Dark.png
+progressFull.Dark.png
+progressEmpty.Dark.png
+
+● https://sushida.net/files/v1_0 から C:\Users\takut\OneDrive\ドキュメント\Downloads\sushida.net\files\v1_0 へ
+
+P1126_UnityLoader.js （"UnityLoader.js?1126" から変更）
+
+ダウンロード完了：2023/08/23 17:18:58
+
+ダウンロード予定数：97
+ダウンロード総数：97
+エラーはありませんでした。

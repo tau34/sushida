@@ -1,0 +1,208 @@
+@charset "utf-8";
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #D9DCCA;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+a {
+color:#006677;
+}
+
+a:hover {
+color:#006677;
+}
+
+a:visited {
+color:#006677;
+}
+
+#container{
+	margin: 0px auto;
+	padding: 3px;
+	width: 864px;
+	background-image: url("../img/bg_main.gif");
+	overflow:auto;
+	color: #333;
+	font-size: 13px;
+}
+
+#title{
+	width: 854px;
+	height: 95px;
+}
+
+#contents{
+	width: 854px;
+	background-image: url("../img/bg_contents.gif");
+	overflow: hidden
+}
+
+#main{
+	width: 534px;
+	float: left;
+}
+
+#menu{
+	padding: 10px 0px;
+	width: 150px;
+	float: left;
+	overflow:auto;
+	text-align: center;
+}
+
+
+.sub{
+	margin: 22px 10px 12px 0px;
+	width: 160px;
+	float: right;
+}
+
+.info{
+	margin: 12px 25px;
+	padding: 10px 20px;
+	width: 444px;
+	border-radius: 8px;
+	background-color:#E2E9E0;
+	line-height: 20px;
+}
+
+.info_title{
+	margin: 20px 25px 0px 25px;
+	width: 484px;
+}
+
+td{
+	padding: 4px;
+}
+
+#main_info{
+	margin: 0px 25px;
+	padding: 10px 20px;
+	width: 438px;
+	
+	line-height: 24px;
+	border-bottom-left-radius: 16px;
+	border-bottom-right-radius: 16px;
+	background-color: #FFF;
+	color: #556622;
+	border: solid 3px #a6b681;
+	border-top: none;
+}
+
+#main_info_title{
+	margin: 25px 25px 0px 25px;
+	width: 484px;
+	height: 18px;
+}
+
+.main_play{
+	margin: 12px 25px;
+	width: 484px;
+	text-align: center;
+}
+
+.main_play p{
+	font-size: 13px;
+	margin: 8px 0px;
+}
+
+.main_ex{
+	margin: 0px 25px;
+	width: 484px;
+	text-align: center;
+}
+
+.main_info{
+	margin: 20px 25px;
+	padding: 20px 25px;
+	width: 424px;
+	border-radius: 8px;
+	background-color:#EEEEEE;
+	line-height: 24px;
+}
+
+.main_note{
+	margin: 20px 25px;
+	padding: 16px 20px;
+	width: 430px;
+	border-radius: 8px;
+	background-color:#FAE0DD;
+	border: solid 3px #D08279;
+	line-height: 24px;
+}
+
+#main_qa{
+	width: 634px;
+	float: left;
+}
+
+.main_ad{
+	margin: 20px 25px;
+	margin-bottom: 35px;
+	width: 474px;
+}
+
+.qa_q{
+	margin: 5px 25px;
+	padding: 10px 20px;
+	width: 544px;
+	border-radius: 8px;
+	background-color:#FFF5E0;
+	line-height: 20px;
+}
+
+.qa_a{
+	margin: 0px 25px 30px 25px;
+	padding: 10px 20px;
+	width: 544px;
+	border-radius: 8px;
+	background-color:#E0FAFA;
+	line-height: 20px;
+}
+
+.to_top{
+	margin: 12px auto;
+	padding: 20px 0px;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#menu ul{
+	list-style: none;
+}
+
+#menu ul li a{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#main_sns{
+	margin: 12px auto;
+	padding: 6px 2px;
+	width: 478px;
+	border-radius: 8px;
+	background-color:#EEEEEE;
+	overflow: hidden;
+}
+
+#sns{
+	width: 270px;
+	height: 30px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+
+#sns li {
+	float: left;
+    margin: 6px;
+    margin-left: 0;
+    line-height: 0;
+}
